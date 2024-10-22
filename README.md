@@ -60,6 +60,8 @@ cd proje-adi
 
 > ***Renk ve Tasarım***: style.css dosyasını düzenleyerek renkler ve tasarımı kolayca değiştirebilirsiniz.
 
+> ***Blog Sayfası***: gitbook.io sayfası veya benzer bir blog sayfası üzerinden kendinze ait bir blog oluşturabilirsiniz. 
+
 ## 📝 Katkıda Bulunma:
 > Projeye katkıda bulunmak isterseniz, fork'layabilir ve pull request gönderebilirsiniz. Her türlü katkı ve geri bildirim memnuniyetle karşılanır.
 
