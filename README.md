@@ -1,72 +1,72 @@
-## Grafik Tasarımcılar için Portfolyo Sayfası
-![Sayfa Önizlemesi](/dosyalar/onizleme.png)
+## Portfolio Page for Graphic Designers
+![Page Preview](/dosyalar/onizleme.png)
 
-## 📄 Proje Açıklaması:
-> Bu proje, grafik tasarımcılar için modern ve şık bir portfolyo sayfası oluşturmak amacıyla HTML, CSS ve JavaScript kullanılarak geliştirilmiştir. Sayfa, kullanıcıların projelerini, becerilerini ve iletişim bilgilerini profesyonel bir şekilde sergilemelerine olanak tanır.
+## 📄 Project Description:
+> This project is developed using HTML, CSS, and JavaScript to create a modern and stylish portfolio page for graphic designers. The page allows users to professionally showcase their projects, skills, and contact information.
 
-## 🛠️ Kullanılan Teknolojiler:
-> **HTML5**: Sayfa yapısı ve içerik.
-> **CSS3**: Sayfa tasarımı ve stiller.
-> **JavaScript**: Dinamik işlevsellik ve etkileşimler.
+## 🛠️ Technologies Used:
+> **HTML5**: Page structure and content.
+> **CSS3**: Page design and styles.
+> **JavaScript**: Dynamic functionality and interactions.
 
-## 🎨 Özellikler:
-> Kullanıcı dostu ve modern tasarım.
-> Özelleştirilebilir proje galerisi.
-> Dinamik projeler ve beceriler bölümü.
-> İletişim formu ile hızlı bağlantı kurma imkanı.
-> Responsive tasarım ile tüm cihazlarda uyumlu görünüm.
+## 🎨 Features:
+> User-friendly and modern design.
+> Customizable project gallery.
+> Dynamic projects and skills section.
+> Quick contact through the contact form.
+> Responsive design for compatibility with all devices.
 
-## 📂 Proje Yapısı:
+## 📂 Project Structure:
 
 ```bash
-├── brosurtasarimlari/              # Broşür tasarımlarını içeren klasör
-├── dosyalar/                       # Genel dosyaların bulunduğu klasör
-├── kurumsalkimliktasarimlari/      # Kurumsal kimlik tasarımlarını içeren klasör
-├── logotasarimlari/                # Logo tasarımlarını içeren klasör
-├── madlogo/                        # Website logoları ve görsellerini içeren klasör
-├── brosurtasarimlari.html          # Broşür tasarımları sayfası
-├── index.html                      # Ana sayfa
-├── index.js                        # Ana JavaScript dosyası
-├── kurumsalkimliktasarimlari.html  # Kurumsal kimlik tasarımları sayfası
-├── liste.txt                       # Liste dosyası
-├── logotasarimlari.html            # Logo tasarımları sayfası
-├── pattern.svg                     # SVG formatında desen dosyası
-├── proj-script.js                  # Proje ile ilgili JavaScript dosyası
-├── proj-styles.css                 # Proje ile ilgili stil dosyası
-├── styles.css                      # Ana stil dosyası
-└── yenitasarimlar.html             # Yeni tasarımlar sayfası
+├── brosurtasarimlari/              # Folder containing brochure designs
+├── dosyalar/                       # Folder containing general files
+├── kurumsalkimliktasarimlari/      # Folder containing corporate identity designs
+├── logotasarimlari/                # Folder containing logo designs
+├── madlogo/                        # Folder containing website logos and images
+├── brosurtasarimlari.html          # Brochure designs page
+├── index.html                      # Main page
+├── index.js                        # Main JavaScript file
+├── kurumsalkimliktasarimlari.html  # Corporate identity designs page
+├── liste.txt                       # List file
+├── logotasarimlari.html            # Logo designs page
+├── pattern.svg                     # Pattern file in SVG format
+├── proj-script.js                  # Project-related JavaScript file
+├── proj-styles.css                 # Project-related style file
+├── styles.css                      # Main style file
+└── yenitasarimlar.html             # New designs page
 ```
 
-## 🚀 Kurulum ve Kullanım:
-> Projeyi kendi bilgisayarınıza klonlamak ve çalıştırmak için aşağıdaki adımları izleyebilirsiniz:
+## 🚀 Installation and Usage:
+> Follow the steps below to clone and run the project on your computer:
 
-#### 1- Projeyi Klonla:
+#### 1- Clone the Project:
 
 ```bash
 git clone https://github.com/madtethys/grafik-tasarimci-portfolyo.git
 ```
 
-#### 2- Dizine Git:
+#### 2- Navigate to the Directory:
 
 ```bash
-cd proje-adi
+cd project-name
 ```
-#### 3- `index.html` Dosyasını Tarayıcıda Aç:
+#### 3- Open `index.html` in Browser:
 
-`index.html` dosyasını çift tıklayarak varsayılan tarayıcınızda açabilirsiniz.
+You can open the `index.html` file in your default browser by double-clicking it.
 
-## ✨ Kişiselleştirme:
-> ***Proje Galerisi***: `index.html` / `kurumsalkimliktasarimlari.html` / `brosurtasarimlari` / `logotasarimlari` dosyasında project sınıfına sahip div elemanlarını düzenleyerek projelerinizi ekleyebilirsiniz.
+## ✨ Customization:
+> ***Project Gallery***: You can add your projects by editing the div elements with the project class in `index.html` / `kurumsalkimliktasarimlari.html` / `brosurtasarimlari` / `logotasarimlari` files.
 
-> ***Renk ve Tasarım***: style.css dosyasını düzenleyerek renkler ve tasarımı kolayca değiştirebilirsiniz.
+> ***Color and Design***: You can easily change the colors and design by editing the style.css file.
 
-> ***Blog Sayfası***: gitbook.io sayfası veya benzer bir blog sayfası üzerinden kendinze ait bir blog oluşturabilirsiniz. 
+> ***Blog Page***: You can create your own blog through gitbook.io or a similar blog page.
 
-## 📝 Katkıda Bulunma:
-> Projeye katkıda bulunmak isterseniz, fork'layabilir ve pull request gönderebilirsiniz. Her türlü katkı ve geri bildirim memnuniyetle karşılanır.
+## 📝 Contributing:
+> If you want to contribute to the project, you can fork it and send a pull request. Any contributions and feedback are welcome.
 
-## 📬 İletişim:
-> Bu proje hakkında sorularınız veya geri bildirimleriniz varsa, [e-posta](mailto:info@mdusova.com) yoluyla veya [LinkedIn](https://linkedin.com/in/mdusova) üzerinden benimle iletişime geçebilirsiniz.
+## 📬 Contact:
+> If you have any questions or feedback about this project, you can contact me via [email](mailto:info@mdusova.com) or [LinkedIn](https://linkedin.com/in/mdusova).
 
-## 🛡️ Lisans
-> Bu proje [Apache License 2.0](LICENSE) ile lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasını inceleyebilirsiniz.
+## 🛡️ License
+> This project is licensed under the [Apache License 2.0](LICENSE). For more information, you can review the LICENSE file.
